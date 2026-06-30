@@ -2,7 +2,7 @@ build/
 dist/
 old/
 *.json
-* .spec
+*.spec
 .DS_Store
 *.log
 .env*
