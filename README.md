@@ -4,6 +4,7 @@
 
 # Installer python.
 pip install pyinstaller
+
 pyinstaller --noconfirm --onefile --windowed "backup_utility.py"
 
 # Description
