@@ -19,7 +19,7 @@ CONFIG_FILE = os.path.join(application_path, "backuputility.json")
 class BackupApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Backup & Restore Saved Data")
+        self.root.title("Backup And Restore Saved Data")
         self.root.geometry("850x450")
         self.root.minsize(850, 450)
         self.root.resizable(True, True)
