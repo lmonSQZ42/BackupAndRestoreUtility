@@ -1,0 +1,9 @@
+build/
+dist/
+old/
+*.json
+* .spec
+.DS_Store
+*.log
+.env*
+!.env.example
